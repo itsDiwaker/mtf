@@ -6,8 +6,8 @@
     "license": "OSL-3.0",
     "require": {
         "php": ">=5.4.0",
-        "phpunit/phpunit": "~4.8.0|~5.5.0",
-        "phpunit/phpunit-selenium": ">=1.2",
+        "phpunit/phpunit": ">=6.0",
+        "facebook/webdriver": "dev-master",
         "symfony/console": "~2.3 <2.7"
     },
     "suggest": {
